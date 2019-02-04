@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TitleMenu.unity
+    guid: f4e41da4e1d13654b8b0cc4877b7c43d
+  - enabled: 1
+    path: Assets/Hallway.unity
+    guid: e4ed320607779e846b8e60b7484a9908
+  - enabled: 1
+    path: Assets/TextAlternatives.unity
+    guid: 3496c98bc7ce79a488ee92cf12e61e09
+  - enabled: 1
+    path: Assets/TimeBasedMedia.unity
+    guid: 4051285f22cac2a4a83a97f7095087cc
+  - enabled: 1
+    path: Assets/Predictable.unity
+    guid: 6208705dcced74d93947743116b9c98c
+  - enabled: 1
+    path: Assets/KeyboardAccessible.unity
+    guid: f0de659a0b53b064184cf8e6a96768cd
+  - enabled: 1
+    path: Assets/EnoughTime.unity
+    guid: d60cfbd26deda4b70bcfd9175a66f84d
+  - enabled: 1
+    path: Assets/Predictable.unity
+    guid: 6208705dcced74d93947743116b9c98c
+  - enabled: 1
+    path: Assets/Navigable.unity
+    guid: eab13e5fe0336d44f8ef1840deaeac62
+  - enabled: 1
+    path: Assets/Distinguishable.unity
+    guid: e3d51ad13140f84409b5a04503cf8b6c
+  - enabled: 1
+    path: Assets/Seizures.unity
+    guid: 2ccdf0547393cd946949da34ed34885a
+  - enabled: 1
+    path: Assets/Adaptable.unity
+    guid: 8eb8e050d0defbd418bbba08fac14f77
+  - enabled: 1
+    path: Assets/TimeBasedMedia.unity
+    guid: 4051285f22cac2a4a83a97f7095087cc
+  - enabled: 1
+    path: Assets/TextAlternatives.unity
+    guid: 3496c98bc7ce79a488ee92cf12e61e09

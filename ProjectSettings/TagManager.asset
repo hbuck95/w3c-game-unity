@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trigger
+  - CodeEditor
+  - a
+  - s
+  - mouse
+  - Door
+  - space
+  - lava
+  - keyboardOnly
+  - normal
+  - mouseOnly
+  - t
+  - c
+  - b
+  - NPC
+  - NPCDestination
+  - mouseView
+  - lavaTrigger
+  - doorTrigger
+  - congrats
+  - keyboardDialogue
+  - i
+  - l
+  - y
+  - mouseDialogue
+  - MysteryBox
+  - buildButtons
+  - buildNode
+  - activeBuildNode
+  - Server
+  - HelperRobot
+  - Node
+  - Wall
+  - Bullet
+  - Floor
+  - MapPathPane
+  - turret
+  - Flash
+  - Switch
+  - Health
+  - MobilePlatform
+  - PCPlatform
+  - TVPlatform
+  - UI_EdgeOfScreen
+  - endGame
+  - VideoHolder
+  - ImageHolder
+  - UI_EdgeOfPlatform
+  - ToolboxArea
+  - LiftButton
+  - MainDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Robot
+  - Toolbox
+  - Player
+  - Lift
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

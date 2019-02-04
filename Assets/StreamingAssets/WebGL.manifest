@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2873756588
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: level1.dat
+      Dependencies: {}
+    Info_1:
+      Name: level2.dat
+      Dependencies: {}
